@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesciptTaster", "TypesciptTaster\TypesciptTaster.csproj", "{15F6D369-B7EE-44BB-9BC3-19D23E1E3D9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypescriptTaster", "TypescriptTaster\TypescriptTaster.csproj", "{15F6D369-B7EE-44BB-9BC3-19D23E1E3D9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
