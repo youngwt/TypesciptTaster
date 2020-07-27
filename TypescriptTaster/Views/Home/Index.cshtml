@@ -2,6 +2,7 @@
     ViewBag.Title = "Home Page";
 }
 <script src="~/Scripts/select2.min.js"></script>
+<script src="~/Scripts/home.js"></script>
 <link href="~/Content/css/select2.min.css" rel="stylesheet" />
 <div class="jumbotron">
     <h1>Typescript Taster</h1>
@@ -21,11 +22,7 @@
 <script>
     $(document).ready(function () {
 
-        $(".example").select2();
+        var home = new Home(".example");
 
-        debugger;
-        $.post("/api/order", {
-            order: "coffee",            
-        })
     });
 </script>
